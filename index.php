@@ -9,7 +9,7 @@
 
     <h1>Exercicio de Vetores</h1>
     <h2>Nome: Murilo Henrique Silva Santos</h2>
-    <h3>Questão a</h3>
+    <h3>Questão A</h3>
     <p>Nessa questão o erro será mostrado logo abaixo</p>
     <?php
     include('Q1.php');
